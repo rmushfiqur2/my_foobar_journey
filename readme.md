@@ -25,7 +25,7 @@ WIthin the entire challenge I had to solve total 9 problems from different domai
 
 ## _What I read_
 
-As I hinted earlier, I got a problem and googled the necessary concepts. The problems up to level 3 can be expected during programming interview. But problems from level 4 and 5 are far complex. Actually, I read some algorithms from the book **"Introduction to algorithms"** by Thomas H Cormen (3rd edition) before attempting the level 4 problems. And I think those concpets helped me implicitly. At level 3 and 4 I got help from the below materials:
+As I hinted earlier, I got a problem and googled the necessary concepts. The problems up to level 3 can be expected during programming interview. But problems from level 4 and 5 are far complex. Actually, I read some algorithms from the book **"Introduction to algorithms"** by *Thomas H Cormen* (3rd edition) before attempting the level 4 problems. And I think those concpets helped me implicitly. At level 3 and 4 I got help from the below materials:
 
 1. [How to Find a Stable 3x3 Matrix](https://www.youtube.com/watch?v=ZENBQj2qQ2k)
 2. [Markov Chain, Hitting probabilities](https://www.stat.auckland.ac.nz/~fewster/325/notes/ch8.pdf)
