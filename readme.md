@@ -9,7 +9,7 @@ On 23 February 2022, I was busy with my PhD applications on signal processing an
 
 ![Alt text](https://i.ibb.co/6s3Kh93/foobar-complete-3-sec.gif?raw=true "Title")
 
-One thing I forgot to mention: the problem starts with a Sci-Fi story. You are the central charcater of the plot. As the storyline advacnces, you are given more and more tasks for acheiving your goal in the Sci-Fi plot. Not to firighten you; at a stage of level 4, I was given a task which resulted into mass destruction of a planet according to the stroyline!
+One thing I forgot to mention: the problem starts with a Sci-Fi story. You are the central characater of the plot. As the storyline advacnces, you are given more and more tasks for acheiving your goal in the Sci-Fi plot. Not to firighten you; at a stage of level 4, I was given a task which resulted into the mass destruction of a planet according to the stroyline!
 
 ## _Expected types of problems_
 
