@@ -18,8 +18,8 @@ WIthin the entire challenge I had to solve total 9 problems from different domai
 | 1 | Power, Modulo, Division | 1 |
 | 2 | Number theory, Loop | 2 |
 | 3 | Cycles, Markov Model, Linear Equations | 3 |
-| 2 | Priority Queue, Number sequence, Discrete math | 2 |
-| 1 | Dynamic programming, Matrices, DFS, Complex probability | 1|
+| 4 | Priority Queue, Number sequence, Discrete math | 2 |
+| 5 | Dynamic programming, Matrices, DFS, Complex probability | 1|
 
 ## _What I read_
 
@@ -31,7 +31,7 @@ As I hinted earlier, I got a problem and googled the necessary concepts. The pro
 
 ## _If you want to contact_
 
-If you have any questions, or need  help to understand any problem or my solution, give me a knock at rmushfiqur2@gmail.com
+If you have any questions, or need  help to understand any problem or my solution, knock me at rmushfiqur2@gmail.com
 
 I will try my best to make this read-me file more precise and crystal clear with your help!
 
