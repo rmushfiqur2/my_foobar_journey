@@ -7,7 +7,7 @@ During normal google search, Google may surprise you by inviting to the Foobar c
 
 On 23 February 2022, I was busy with my PhD applications on signal processing and computer vision. All of a sudden I received an invitation from Google to participate in the Google Foobar challenge. I heard about the Foobar challenge earlier. It is a coding challenge with 5 stages of increasing difficulty. After accepting the challenge, I found in some blogs that they found level 4 as the most difficult one. In my case, I enjoyed every bit of the problems of all stages, but level 5 was a gem. It took me a full day to crack the problem. But then it didn't pass all the hidden test cases, as my solution was an exponential time solution. Again I had to think for hours to convert the solution to a polynomial (linear) time solution with dynamic programming and matrix transpose. Once I did that, Foobar showed this cool animation on my screen.
 
-![Alt text](https://i.ibb.co/2n04Kgb/foobar-animation.gif?raw=true "Title")
+![Alt text](https://i.ibb.co/6s3Kh93/foobar-complete-3-sec.gif?raw=true "Title")
 
 ## _Expected types of problems_
 
@@ -32,6 +32,7 @@ As I hinted earlier, I got a problem and googled the necessary concepts. The pro
 ## _If you want to contact_
 
 If you have any questions, or need  help to understand any problem or my solution, give me a knock at rmushfiqur2@gmail.com
+
 I will try my best to make this read-me file more precise and crystal clear with your help!
 
 ## _Stay tuned_
