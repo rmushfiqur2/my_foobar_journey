@@ -20,7 +20,7 @@ WIthin the entire challenge I had to solve total 9 problems from different domai
 | 1 | Power, Modulo, Division | 1 |
 | 2 | Number theory, Loop | 2 |
 | 3 | Cycles, Markov Model, Linear Equations | 3 |
-| 4 | Priority Queue, Number sequence, Discrete math | 2 |
+| 4 | Graph theory, Priority Queue, Number sequence, Discrete math | 2 |
 | 5 | Dynamic programming, Matrices, DFS, Complex probability | 1|
 
 ## _What I read_
